@@ -16,7 +16,7 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
     font-family: var(--fonte-principal);
-    font-size: 1em;
+    font-size: 100%;
     font-weight: 400;
 }
 .main{
@@ -40,7 +40,7 @@ body{
     box-sizing: border-box;
 }
 .container__titulo{
-    font-size: 1.75em;
+    font-size: 1.75rem;
     font-weight: 700;
 }
 .container__imagem{
@@ -72,7 +72,7 @@ body{
     color: var(--cor-de-fundo);
 }
 .container__aviso{
-    font-size: 0.75em;
+    font-size: 0.75rem;
     color:var(--cinza-secundario);
 }
 .secundario{
@@ -90,7 +90,7 @@ body{
     max-height: 80vh;
 }
 .descricao__titulo{
-    font-size: 3em;
+    font-size: 3rem;
     font-weight: 700;
     margin-bottom: 8px;
 }
@@ -118,7 +118,7 @@ body{
     list-style: none;
 }
 .lista__texto{
-    font-size: 2em;
+    font-size: 2rem;
     font-weight: 700;
     margin-top: 0.5em;
 }
@@ -161,7 +161,7 @@ body{
 }
 .rodape__texto{
     color:var(--cinza-secundario);
-    font-size: 0.85em;
+    font-size: 0.85rem;
 }
 @media screen and (max-width:1024px) {
     .container{
@@ -171,7 +171,7 @@ body{
         justify-content: start;
     }
     .container__titulo{
-        font-size: 1.5em;
+        font-size: 1.5rem;
     }
     .container__imagem{
         max-width: 100%;
@@ -185,7 +185,6 @@ body{
     .container{
         display: inline-block;
         background-image: none;
-        width: 100vw;
         text-align: center;
         height: auto;
     }
@@ -203,7 +202,7 @@ body{
         max-width: 80vw;
     }
     .descricao__titulo{
-        font-size: 2.2em;
+        font-size: 2.2rem;
     }
     .rodape{
         margin: 3em 2em;
@@ -215,8 +214,14 @@ body{
         margin-bottom: 10px;
     }
 }
-@media screen and (max-width:425px) {
+@media screen and (max-width:560px) {
     .container__caixa{
         padding: 0;
+    }
+    .descricao__titulo, .lista__texto{
+        font-size: 1.5rem;
+    }
+    .lista__imagem{
+        width: 100%;
     }
 }
