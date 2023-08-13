@@ -20,8 +20,7 @@ Originalmente acompanhei a produção dessa página no decorrer do curso da Alur
   * `media queries`;
 
 ## 📁Acesso ao projeto
-Para ver o projeto [clique aqui](https://alura-plus-red-two.vercel.app/)
-Neste repositório você tem acesso a todo o material.
+Para ver o projeto [clique aqui](https://alura-plus-red-two.vercel.app/). Neste repositório você tem acesso a todo o material.
 
 ## 🛠️Para abrir e rodar o projeto
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
