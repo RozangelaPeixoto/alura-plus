@@ -10,7 +10,7 @@ Originalmente acompanhei a produção dessa página no decorrer do curso da Alur
 </div>
 
 ## 📚Assuntos que estudei
-* `Figma`: reproduzi o html e css e exportei as imagens necessárias, para que o projeto fosse o mais fiel possível
+* `Figma`: criei o html, css e exportei as imagens necessárias para que o projeto fosse o mais fiel possível
 * `HTML`: semântico e utilizando BEM(Block Element Modifier) para nomenclatura de classes 
 * `CSS`: abaixou algumas técnicas que utilizei:
   * `declaração de variáveis no :root`;
