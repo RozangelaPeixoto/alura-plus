@@ -25,3 +25,10 @@ Neste repositório você tem acesso a todo o material.
 
 ## 🛠️Para abrir e rodar o projeto
 Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
+
+## :art:Extra: Um pouquinho de design
+Um dos desafios do curso era estilizar os botões e links. Esse foi o estilo que eu usei.
+<div align="center">
+   <img src="https://github.com/RozangelaPeixoto/alura-plus/assets/140510936/887bd5db-b481-4058-8b13-0f680f9bc6ea">
+   <img src="https://github.com/RozangelaPeixoto/alura-plus/assets/140510936/f5bf0687-2f46-4d30-9ca8-cf0e4025dd06">
+</div>
