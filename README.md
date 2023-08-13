@@ -16,7 +16,7 @@ Originalmente acompanhei a produção dessa página no decorrer do curso da Alur
   * `declaração de variáveis no :root`;
   * `importação de fontes web`;
   * `flexbox e grid`;
-  * `utilização de pseudoclasses como: (:before e :after)`;
+  * `utilização de pseudoclasses como: :before e :after`;
   * `media queries`;
 
 ## 📁Acesso ao projeto
