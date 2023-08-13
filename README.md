@@ -9,13 +9,19 @@ Originalmente acompanhei a produção dessa página no decorrer do curso da Alur
   <img src="https://github.com/RozangelaPeixoto/alura-plus/assets/140510936/11bddcb9-ffbc-4fcf-b3ae-f8bba156da84" width="300">
 </div>
 
-## 📚Coisas que estudei e aprendi
-* `Figma`: reproduzi o html e css e exportei as imagens necessarias, para que o projeto fosse o mais fiel possível
+## 📚Assuntos que estudei
+* `Figma`: reproduzi o html e css e exportei as imagens necessárias, para que o projeto fosse o mais fiel possível
 * `HTML`: semântico e utilizando BEM(Block Element Modifier) para nomenclatura de classes 
 * `CSS`: abaixou algumas técnicas que utilizei:
   * `declaração de variáveis no :root`;
-  * `importar fontes web`;
+  * `importação de fontes web`;
   * `flexbox e grid`;
   * `utilização de pseudoclasses como: (:before e :after)`;
   * `media queries`;
 
+## 📁Acesso ao projeto
+Para ver o projeto [clique aqui](https://alura-plus-red-two.vercel.app/)
+Neste repositório você tem acesso a todo o material.
+
+## 🛠️Para abrir e rodar o projeto
+Para abrir e rodar o projeto, basta abrir o aquivo `index.html` no navegador.
