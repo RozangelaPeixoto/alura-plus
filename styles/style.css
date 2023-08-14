@@ -80,7 +80,7 @@ body{
     justify-content: space-evenly;
     align-items: center;
     gap: 25px;
-    height: 100vh;
+    min-height: 100vh;
     margin: 0 2em;
 }
 .container__descricao{
@@ -186,7 +186,6 @@ body{
         display: inline-block;
         background-image: none;
         text-align: center;
-        height: auto;
     }
     .container__caixa{
         width: 100%;
